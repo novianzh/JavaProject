@@ -20,8 +20,11 @@ public class RestaurantMain {
         
         System.out.println("\nSetelah Pemesanan");
         menu.takeOrder("Bala-Bala");
+        menu.takeOrder("Bala-Bala");
         menu.takeOrder("Gehu");
         menu.takeOrder("Gehu");
+        menu.takeOrder("Molen");
+        menu.takeOrder("Molen");
         menu.takeOrder("Molen");
         menu.takeOrder("Tahu");
         menu.tampilMenuMakanan();
