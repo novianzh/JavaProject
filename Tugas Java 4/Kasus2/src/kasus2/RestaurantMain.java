@@ -18,7 +18,7 @@ public class RestaurantMain {
         
         menu.tampilMenuMakanan();
         
-        System.out.println("\nSetelah Pemesanan");
+        System.out.println("\nSetelah Pemesanan : ");
         menu.takeOrder("Bala-Bala");
         menu.takeOrder("Bala-Bala");
         menu.takeOrder("Gehu");
